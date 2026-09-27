@@ -1,0 +1,1 @@
+Me parece que no encontré imprecisiones. Solo me di cuenta que me dió una carpeta adicional llamada external para Apis y tal

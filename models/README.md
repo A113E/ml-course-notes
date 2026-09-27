@@ -1,0 +1,1 @@
+# Almacena los modelos entrenados y serializados .pkl y .h5 - asi como predicciones y resumenes - Se recomienda mantener fuera del codigo

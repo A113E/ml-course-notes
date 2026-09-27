@@ -1,0 +1,1 @@
+# Datos intermedios que han sido filtrados - es un paso entre raw y processed

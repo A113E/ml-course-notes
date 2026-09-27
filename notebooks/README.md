@@ -1,0 +1,1 @@
+# Para analisis exploratorio EDA y experimentación interactiva - Se recomienda: una convención de nombres cronologicos - codigo valioso debe migrarse a src/ para que sea reutilizable y testeable.

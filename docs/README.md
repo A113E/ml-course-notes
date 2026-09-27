@@ -1,0 +1,1 @@
+# Documentación del proyecto para otros devs - Generada automaticamente por MkDocs o Sphinx
